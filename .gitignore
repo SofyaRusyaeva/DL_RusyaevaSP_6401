@@ -1,6 +1,4 @@
-scripts/datasets/
-*.tar.gz
-*.zip
+**/scripts/datasets/
 
 __pycache__/
 .ipynb_checkpoints/
