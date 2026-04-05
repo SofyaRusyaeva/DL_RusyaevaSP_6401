@@ -11,3 +11,10 @@
 **Лабораторная работа 2: Полносвязная нейронная сеть**
 * `lab1-2/assignment2.ipynb` - основной файл с экспериментами
 * `lab1-2/scripts/classifiers/neural_net.py` - реализация TwoLayerNet
+
+**Лабораторная работа 3: Глубокие и сверточные нейронные сети
+* `lab3/assignment3.ipynb` - основной файл с экспериментами
+* `lab3/scripts/classifiers/fc_net.py` - реализация многослойной полносвязной сети с поддержкой BN и Dropout
+* `lab3/scripts/classifiers/cnn.py` - реализация ThreeLayerConvNet
+* `lab3/scripts/layers.py` - реализация базовых слоев
+* `lab3/scripts/optim.py` - реализация адаптивных оптимизаторов (SGD+Momentum, RMSProp, Adam)
